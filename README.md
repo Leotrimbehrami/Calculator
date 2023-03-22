@@ -138,4 +138,4 @@ calculate.sqrt(x) // Returns the square root of x.
 [📢 Report Problem](https://docs.google.com/forms/d/e/1FAIpQLSfS8wPh6bCMTLF2wmjiE5_UhPiOEnubEwwPLN_M8zTCjx5qbg/viewform?usp=pp_url&entry.652569746=PB-Calculator)
 
 
-[//]: # (autograding info end)
+[//]: # (autograding info end)# Calculator
